@@ -1,6 +1,6 @@
 # ZynqMP-OpenAMP
 
-[日本語版はこちら]()
+[日本語版はこちら](https://github.com/kern-gt/ZynqMP-OpenAMP/blob/main/README_jp.md)
 
 ## Environment
 * Xilinx Certified Ubuntu22.04
@@ -24,5 +24,5 @@ Devicetree source code and build scripts are stored for each type.
 **r5_firm.vitis_classic**  
 Contains the CR5 firmware project for the Vitis Classic IDE.
 See README for more information.
-[r5_firm.vitis_classic/README_jp.md]()
+[r5_firm.vitis_classic/README_jp.md](https://github.com/kern-gt/ZynqMP-OpenAMP/blob/main/r5_firm.vitis_classic/README.md)
 

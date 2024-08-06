@@ -1,6 +1,6 @@
 # CR5 firmware for OpenAMP Echo test sample
 
-[English version is here]()
+[English version is here](https://github.com/kern-gt/ZynqMP-OpenAMP/blob/main/r5_firm.vitis_classic/README.md)
 
 ## 開発環境
 * Vitis Classic IDE v2024.1.1

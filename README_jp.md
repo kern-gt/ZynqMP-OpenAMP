@@ -1,6 +1,6 @@
 # ZynqMP-OpenAMP
 
-[English version is here]()
+[English version is here](https://github.com/kern-gt/ZynqMP-OpenAMP/blob/main/README.md)
 
 ## 環境
 * Xilinx認定Ubuntu22.04
@@ -24,5 +24,5 @@ Cortex-R5(CR5)コアは２つの動作モードがあります.
 **r5_firm.vitis_classic**  
 Vitis Classic IDEのCR5ファームウェアプロジェクトを格納しています.
 詳しくはREADMEを参照してください.
-[r5_firm.vitis_classic/README_jp.md]()
+[r5_firm.vitis_classic/README_jp.md](https://github.com/kern-gt/ZynqMP-OpenAMP/blob/main/r5_firm.vitis_classic/README_jp.md)
 

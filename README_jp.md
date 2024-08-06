@@ -26,3 +26,6 @@ Vitis Classic IDEのCR5ファームウェアプロジェクトを格納してい
 詳しくはREADMEを参照してください.
 [r5_firm.vitis_classic/README_jp.md](https://github.com/kern-gt/ZynqMP-OpenAMP/blob/main/r5_firm.vitis_classic/README_jp.md)
 
+## 参考情報
+私のブログでも開発過程の様子を説明しています。
+(現在作成中)
